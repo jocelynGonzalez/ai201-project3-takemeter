@@ -1,0 +1,13 @@
+{
+  "baseline_accuracy": 0.8333,
+  "finetuned_accuracy": 0.4167,
+  "improvement": -0.4167,
+  "test_set_size": 36,
+  "label_map": {
+    "trip_report": 0,
+    "recommendation_request": 1,
+    "itinerary_feedback": 2,
+    "logistics_question": 3
+  },
+  "model": "distilbert-base-uncased"
+}
